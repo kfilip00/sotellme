@@ -1,42 +1,208 @@
-What did you want to be when you were growing up?	
-What was the biggest milestone in your life?	
-What's your biggest misbelief you recently found out isn’t true?	
-What's your worst habit?	
-What is the character trait you’re most proud of?	
-What is the character trait you’re least proud of?	
-What's the last thing on searched for on YouTube?	
-What's the last thing on searched for on Google?	
-If you won £50m in the lottery, how would you spend it?	
-What do you love most about yourself?	
-What’s the most embarrassing thing that ever happened to you?	
-If I opened your fridge, what would I always find?	
-Have you ever seen a ghost?	
-If you could add a word to the dictionary, what would it be and what would it mean? IE is there a word you sometimes say that might not actually be a word?	
-What is your most used emoji	
-If you could have one superpower, what would it be?	
-If you had to delete all but three apps from your smartphone, which ones would you keep?	
-What’s the weirdest food you’ve ever eaten?	
-If you could eliminate one food so no one could eat it ever again, what would you destroy?	
-If you had to teach a class on one thing, what would you teach?	
-If you could improve one thing about your daily routine, what would it be?	
-What’s the best advice you’ve ever heard?	
-What would you like to be known/remembered for?	
-What would you like to do when you retire?	
-Which actor would you want to play you in the movie about your life?	
-Which book has most impacted your life and how?	
-What is your favourite movie of all time?	
-What's the craziest thing you've ever done?	
-Do you have a party trick?	
-What TV show do you wish they made more of?	
-What was your first job?	
-You're organising a night out, you can select 3 bars but they can't be in the same country as eachother. What does your night look like?	
-When was the most old you’ve felt (comparatively)?	
-Who is your favourite singer of all time?	
-What is your biggest fear in life?	
-Who is your biggest influence in your life?	
-Do you have a favourite book?	
-What is your favourite TV show of all time?	
-If you had to choose Netlix or Spotify, which would it be?	
-What is the naughtiest thing you did as a kid?	
-What TV show are you binging right now?	
-If you could invite 3 people (dead or alive) to dinner, who would they be?
+{
+  "questions": [
+    {
+      "type": "question",
+      "text": "What did you want to be when you were growing up?"
+    },
+    {
+      "type": "question",
+      "text": "What was the biggest milestone in your life?"
+    },
+    {
+      "type": "question",
+      "text": "What's your biggest misbelief you recently found out isn’t true?"
+    },
+    {
+      "type": "question",
+      "text": "What's your worst habit?"
+    },
+    {
+      "type": "question",
+      "text": "What is the character trait you’re most proud of?"
+    },
+    {
+      "type": "question",
+      "text": "What is the character trait you’re least proud of?"
+    },
+    {
+      "type": "question",
+      "text": "What's the last thing you searched for on YouTube?"
+    },
+    {
+      "type": "question",
+      "text": "What's the last thing you searched for on Google?"
+    },
+    {
+      "type": "question",
+      "text": "If you won £50m in the lottery, how would you spend it?"
+    },
+    {
+      "type": "question",
+      "text": "What do you love most about yourself?"
+    },
+    {
+      "type": "question",
+      "text": "What’s the most embarrassing thing that ever happened to you?"
+    },
+    {
+      "type": "question",
+      "text": "If I opened your fridge, what would I always find?"
+    },
+    {
+      "type": "question",
+      "text": "Have you ever seen a ghost?"
+    },
+    {
+      "type": "question",
+      "text": "If you could add a word to the dictionary, what would it be and what would it mean? IE is there a word you sometimes say that might not actually be a word?"
+    },
+    {
+      "type": "question",
+      "text": "What is your most used emoji?"
+    },
+    {
+      "type": "question",
+      "text": "If you could have one superpower, what would it be?"
+    },
+    {
+      "type": "question",
+      "text": "If you had to delete all but three apps from your smartphone, which ones would you keep?"
+    },
+    {
+      "type": "question",
+      "text": "What’s the weirdest food you’ve ever eaten?"
+    },
+    {
+      "type": "question",
+      "text": "If you could eliminate one food so no one could eat it ever again, what would you destroy?"
+    },
+    {
+      "type": "question",
+      "text": "If you had to teach a class on one thing, what would you teach?"
+    },
+    {
+      "type": "question",
+      "text": "If you could improve one thing about your daily routine, what would it be?"
+    },
+    {
+      "type": "question",
+      "text": "What’s the best advice you’ve ever heard?"
+    },
+    {
+      "type": "question",
+      "text": "What would you like to be known/remembered for?"
+    },
+    {
+      "type": "question",
+      "text": "What would you like to do when you retire?"
+    },
+    {
+      "type": "question",
+      "text": "Which actor would you want to play you in the movie about your life?"
+    },
+    {
+      "type": "question",
+      "text": "Which book has most impacted your life and how?"
+    },
+    {
+      "type": "question",
+      "text": "What is your favourite movie of all time?"
+    },
+    {
+      "type": "question",
+      "text": "What's the craziest thing you've ever done?"
+    },
+    {
+      "type": "question",
+      "text": "Do you have a party trick?"
+    },
+    {
+      "type": "question",
+      "text": "What TV show do you wish they made more of?"
+    },
+    {
+      "type": "question",
+      "text": "What was your first job?"
+    },
+    {
+      "type": "question",
+      "text": "You're organising a night out, you can select 3 bars but they can't be in the same country as each other. What does your night look like?"
+    },
+    {
+      "type": "question",
+      "text": "When was the most old you’ve felt (comparatively)?"
+    },
+    {
+      "type": "question",
+      "text": "Who is your favourite singer of all time?"
+    },
+    {
+      "type": "question",
+      "text": "What is your biggest fear in life?"
+    },
+    {
+      "type": "question",
+      "text": "Who is your biggest influence in your life?"
+    },
+    {
+      "type": "question",
+      "text": "Do you have a favourite book?"
+    },
+    {
+      "type": "question",
+      "text": "What is your favourite TV show of all time?"
+    },
+    {
+      "type": "question",
+      "text": "If you had to choose Netflix or Spotify, which would it be?"
+    },
+    {
+      "type": "question",
+      "text": "What is the naughtiest thing you did as a kid?"
+    },
+    {
+      "type": "question",
+      "text": "What TV show are you binging right now?"
+    },
+    {
+      "type": "question",
+      "text": "If you could invite 3 people (dead or alive) to dinner, who would they be?"
+    },
+    {
+      "type": "riddle",
+      "text": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?"
+    },
+    {
+      "type": "riddle",
+      "text": "I’m tall when I’m young, and I’m short when I’m old. What am I?"
+    },
+    {
+      "type": "riddle",
+      "text": "What has keys but can't open locks?"
+    },
+    {
+      "type": "trivia",
+      "text": "What is the capital city of Australia?"
+    },
+    {
+      "type": "trivia",
+      "text": "Who wrote the play 'Romeo and Juliet'?"
+    },
+    {
+      "type": "trivia",
+      "text": "What is the smallest planet in our solar system?"
+    },
+    {
+      "type": "joke",
+      "text": "Why don’t scientists trust atoms? Because they make up everything!"
+    },
+    {
+      "type": "joke",
+      "text": "Why did the scarecrow win an award? Because he was outstanding in his field!"
+    },
+    {
+      "type": "joke",
+      "text": "What do you get when you cross a snowman and a vampire? Frostbite!"
+    }
+  ]
+}
