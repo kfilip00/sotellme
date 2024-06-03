@@ -1,6 +1,6 @@
 [
     {
-      "type": "question",
+      "type": "question new",
       "text": "What did you want to be when you were growing up?"
     },
     {
